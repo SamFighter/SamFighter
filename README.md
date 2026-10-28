@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Recherche-Alternance%20%7C%20Stage%206%20mois-ff1744?style=for-the-badge" alt="Recherche alternance ou stage" />
 </div>
 
+<div align="center">
+  <sub>🇬🇧 <i>English version at the bottom of this page.</i></sub>
+</div>
+
 <br/>
 
 <div align="center">
@@ -115,6 +119,61 @@ Permission accordée.
 <div align="center">
   <sub><i>« Apprendre en construisant, progresser en partageant. »</i></sub>
 </div>
+
+<img src="./assets/pulse.svg" alt="" width="100%" />
+
+<details>
+<summary>🇬🇧 <b>English version (click to expand)</b></summary>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/header_en.svg" alt="Samuel LABBE, student at 42 Angoulême" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/School-42%20Angoulême-d50000?style=for-the-badge" alt="42 Angoulême" />
+  <img src="https://img.shields.io/badge/Charente-France-b71c1c?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Charente, France" />
+  <img src="https://img.shields.io/badge/Open%20to-Apprenticeship%20%7C%206--month%20internship-ff1744?style=for-the-badge" alt="Open to apprenticeship or 6-month internship" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="./assets/terminal_en.svg" alt="Introduction in an animated terminal" width="85%" />
+</div>
+
+## 🚀 `./journey --42`
+
+<div align="center">
+  <img src="./assets/neural_en.svg" alt="Animated neural network: data, features, model, prediction" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🔴 Field | 🎯 What I built or learned |
+|:---:|:---|
+| **🤖 Artificial intelligence** | **ft_linear_regression**: linear regression coded from scratch to predict a car's price from its mileage <br/> **DSLR**: one-vs-all classifier built with logistic regression, sorting Hogwarts students into their houses |
+| **📈 Data** | Reading, cleaning and visualizing data (histograms, scatter plots, pair plots), and currently learning data engineering |
+| **⚙️ Systems & networking** | **ft_irc**: multi-client IRC server in C++98 (sockets, `poll`, non-blocking I/O, channels, private messages, operator commands) |
+| **🌐 Web** | **ft_transcendence**: full-stack web application with a TypeScript front end |
+| **🧱 C / C++ foundations** | 42 core curriculum: algorithms, memory management, strict coding standards (libft, minishell…) |
+
+</div>
+
+<div align="center">
+
+**About me:** student at 42 Angoulême, preparing an RNCP level 7 degree (master's level) in Web, Mobile, AI & Data Engineering. Fluent in English (written and spoken). Looking for an **apprenticeship** or a **6-month internship** in **Charente, France**.
+
+📫 [LinkedIn](https://www.linkedin.com/in/samuel-labbe) • [Email](mailto:labbe.samuel@icloud.com)
+
+</div>
+
+</details>
 
 <!--
 ============================================================
